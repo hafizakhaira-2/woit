@@ -1,22 +1,11 @@
-BIRTHDAY BANG PUTRA — FINAL
+HBD BANG PUTRA 🎂
 
-Isi:
-- index.html
-- style.css
-- script.js
-- happy-birthday-instrumental.wav
-- images/photo1.jpg ... photo4.jpg
+Cara pakai:
+1. Buka index.html di browser.
+2. Website sudah berisi 2 foto yang kamu kirim.
+3. Tombol "PUTAR LAGU" memainkan melodi Happy Birthday dengan Web Audio API, jadi tidak membutuhkan file MP3 eksternal.
+4. Kalau mau upload ke GitHub Pages, upload semua isi folder ini.
 
-Fitur:
-- Opening surprise
-- Musik instrumental bertema Happy Birthday mulai setelah tombol dibuka
-- Foto asli yang diunggah
-- Birthday report lucu
-- Gallery
-- Surat ulang tahun
-- Patch notes
-- Confetti
-- Responsive HP/laptop
-
-Untuk GitHub Pages:
-Upload seluruh isi folder ZIP ke repository. Jangan memindahkan file audio atau folder images.
+Catatan:
+- Foto berasal dari file yang diberikan di percakapan ini.
+- Tidak ada rekaman musik berhak cipta yang disertakan; lagu dibuat sebagai melodi sintetis di browser.
